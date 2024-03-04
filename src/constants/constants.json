@@ -1,0 +1,15 @@
+{
+    "ERRORS": {
+      "AUTH": "Authentication Error",
+      "AUTHORIZE":"Authorization Error",
+      "TOKEN":"Invalid Token",
+      "INPUT": "Invalid or malformed request",
+      "DATABASE": "Database Error",
+      "CRITICAL": "Critical Error",
+      "WARNING": "Warning",
+      "USER": "User ",
+      "UNEXPECTED": "Unexpected Error",
+      "PATH": "Path"
+    },
+    "JWT_RESET_PASSWORD_EXPIRES_IN": "1h"
+}
